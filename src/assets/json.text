@@ -1,0 +1,13 @@
+{
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTY0MzIwNjk3MCwiZXhwIjoxNjQzNDIyOTcwLCJuYmYiOjE2NDMyMDY5NzAsImp0aSI6ImVTRHo4U3VybUhMalVuNmQiLCJzdWIiOjMsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjcifQ.yDQPOECxFxCR-Dk98GyNwEuugJvsjOcwFdrfrT6WksM",
+    "token_type": "bearer",
+    "expires_in": "3600",
+    "user": {
+        "id": 3,
+        "name": "ratri",
+        "email": "user@mail.com",
+        "email_verified_at": null,
+        "created_at": "2022-01-26T14:11:10.000000Z",
+        "updated_at": "2022-01-26T14:11:10.000000Z"
+    }
+}
